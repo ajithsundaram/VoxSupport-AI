@@ -141,3 +141,10 @@ The rule-based detector in `backend/sentiment.py` scores text by angry signal ph
 | Speech-to-Text | `voxtral-mini-2507` |
 | LLM | `mistral-small-latest` |
 | Text-to-Speech | `voxtral-mini-tts-2603` |
+
+## Sample screen
+
+<img width="1304" height="822" alt="Screenshot 2026-04-14 at 3 37 11 PM" src="https://github.com/user-attachments/assets/56efc52f-190f-459e-a21b-e781e2abda58" />
+
+
+
